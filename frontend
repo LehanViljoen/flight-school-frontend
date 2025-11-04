@@ -1,0 +1,6 @@
+cd ../frontend
+git init
+git remote add origin https://github.com/LehanViljoen/flight-school-frontend.git
+git add .
+git commit -m "Initial frontend commit"
+git push -u origin main
